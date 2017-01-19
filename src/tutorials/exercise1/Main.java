@@ -1,4 +1,4 @@
-package td1.exercice1;
+package tutorials.exercise1;
 
 public class Main {
     public static void main(String []args) {
