@@ -1,0 +1,13 @@
+BONJOUR ET BIENVENUE
+
+Je m'appel Triangulus et je suis un petit programme Java qui te trace de joli triangle en fonction de tes specifications.
+Pour ce faire j'aurai besoin que tu me donne la taille du triangle (hauteur) que tu veux que je trace pour toi et son orientation.
+La taille doit etre superieur ou egal a 3 et inferieur ou egal a 20.
+Le choix de l’orientation du triangle sera la valeur 0 pour dessiner vers le bas et la valeur 1 pour dessiner vers le haut.
+Le choix te sera aussi demander.
+
+NB: Tu n’a droit qu’à 3 essais au maximum pour donner une valeur acceptable.
+    Passé ce nombre, je vais me fache et te quitter.
+
+Youpi si tu es pret ! On y vas ... :)
+---------------------------------------------------------------------------------------------------------------------------------------
