@@ -1,11 +1,11 @@
-package tutorials.exercise2;
+package tutorials.td1.exercise2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class TestTriangle
+class TestTriangle
 {
     /* ----------------------------------------------------------------------------------------
     * TestTriangle class

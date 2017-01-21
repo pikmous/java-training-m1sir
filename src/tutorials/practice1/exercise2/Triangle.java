@@ -1,12 +1,9 @@
-package tutorials.exercise2;
+package tutorials.td1.exercise2;
 
 class Triangle
 {
 
     private int hauteur;
-
-    private static final char PATTERN = '*';
-    private static final char SPACE = ' ';
 
     Triangle(int h) {
         this.hauteur = h;
