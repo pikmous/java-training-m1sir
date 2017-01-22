@@ -1,4 +1,4 @@
-package tutorials.td1.exercise4;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise4;
 
 public class EquationDegre2 {
 

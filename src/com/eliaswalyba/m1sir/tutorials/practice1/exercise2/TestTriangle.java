@@ -1,4 +1,4 @@
-package tutorials.td1.exercise2;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -10,8 +10,7 @@ class TestTriangle
     /* ----------------------------------------------------------------------------------------
     * TestTriangle class
     * ----------------------------------------------------------------------------------------
-    * This class is using the Triangle class to draw very beautiful and well shaped triangles
-    * for the user.
+    * This class is using the Triangle class to draw very beautiful and well shaped triangles.
     * It implements its logic by the help of the Conf class in the same package.
     * The Conf class is the data provider for this class.
     * All messages output by this class and all setting values used here are taken from the

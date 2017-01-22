@@ -1,4 +1,4 @@
-package tutorials.td1.exercise6;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise6;
 
 public class Point {
 

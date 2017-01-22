@@ -1,4 +1,4 @@
-package tutorials.td1.exercise5;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise5;
 
 public class Factorial {
 
@@ -18,18 +18,11 @@ public class Factorial {
     }
 
     public int compute() {
-        /*int f = 1;
+        int f = 1;
         for (int i = this.n; i > 0; i--) {
             f *= i;
         }
-        return f;*/
-
-        return f(n);
-    }
-
-    private int f(int n) {
-        if (n == 1) return n;
-        else return f(n-1);
+        return f;
     }
 
 }

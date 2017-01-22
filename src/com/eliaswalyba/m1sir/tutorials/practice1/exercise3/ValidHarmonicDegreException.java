@@ -1,4 +1,4 @@
-package tutorials.td1.exercise3;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise3;
 
 public class ValidHarmonicDegreException extends Exception {
     public ValidHarmonicDegreException() {

@@ -1,6 +1,6 @@
-package tutorials.td1.exercise7;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise7;
 
-import tutorials.td1.exercise6.Point;
+import com.eliaswalyba.m1sir.tutorials.practice1.exercise6.Point;
 
 public class Cercle {
 

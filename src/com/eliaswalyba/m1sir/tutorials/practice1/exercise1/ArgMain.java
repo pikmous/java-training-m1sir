@@ -1,4 +1,4 @@
-package tutorials.practice1.exercise1;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise1;
 
 public class ArgMain
 {
@@ -20,10 +20,14 @@ public class ArgMain
      */
 
     public static void main(String []args) {
-        if(args.length == 0) {
+        if(args.length < 2) {
             System.out.println("Error: please provide 2 integers to run this program. :)");
         } else {
-            System.out.println(args[0] + " + " + args[1] + " = " + Integer.parseInt(args[0]) + Integer.parseInt(args[1]));
+            System.out.println(
+                    args[0] + " + " + args[1] + " = "
+                            + Integer.parseInt(args[0])
+                            + Integer.parseInt(args[1])
+            );
         }
     }
 

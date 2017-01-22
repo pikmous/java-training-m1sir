@@ -1,4 +1,4 @@
-package tutorials.td1.exercise2;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise2;
 
 class Conf {
 

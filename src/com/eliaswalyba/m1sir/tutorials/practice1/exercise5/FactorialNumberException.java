@@ -1,4 +1,4 @@
-package tutorials.td1.exercise5;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise5;
 
 public class FactorialNumberException extends Exception {
 

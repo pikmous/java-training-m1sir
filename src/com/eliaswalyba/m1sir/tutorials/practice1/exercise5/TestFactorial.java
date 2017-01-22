@@ -1,4 +1,4 @@
-package tutorials.td1.exercise5;
+package com.eliaswalyba.m1sir.tutorials.practice1.exercise5;
 
 import java.util.Scanner;
 
@@ -16,8 +16,5 @@ public class TestFactorial {
         Factorial f = new Factorial(n);
         System.out.print(String.format("%d! = %d", n, f.compute()));
     }
-
-
-
 
 }
